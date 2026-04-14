@@ -21,6 +21,12 @@ A RESTful API service for managing cloud resource metadata and lifecycle operati
 - **Uvicorn** - ASGI server for production
 - **SQLite** - Lightweight database (easily upgradeable to PostgreSQL)
 
+## New Features (v2.0)
+
+- **Docker Support**: Containerized application with Docker and docker-compose
+- **Enhanced Logging**: Structured logging with request/response tracking and performance monitoring
+- **PostgreSQL Support**: Production-ready database with connection pooling (SQLite for development)
+
 ## Installation
 
 ### Prerequisites
